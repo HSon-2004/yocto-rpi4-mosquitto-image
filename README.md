@@ -1,6 +1,6 @@
 # Build a Yocto image for Raspberry Pi 4
 
-This script builds a Yocto image for Raspberry Pi 4 using the poky repository and the meta-raspberrypi layer. It bulids a full command line image with SSH support and installs the mosquitto MQTT broker and Python 3.
+This script builds a Yocto image for Raspberry Pi 4 using the poky repository and the meta-raspberrypi layer. It builds a full command line image with SSH support and installs the mosquitto MQTT broker and Python 3.
 
 ## Download and Install Dependencies
 
